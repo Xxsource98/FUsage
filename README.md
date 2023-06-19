@@ -18,5 +18,16 @@ As you can see, there is a Windows folder when it is a mobile app. That because 
     <li><b>Export and Load saved settings</b></li>
 </ul>
 
+## Images
+<p float="left">
+  <img src="./images/1.jpg" width=256>
+  <img src="./images/2.jpg" width=256>
+  <img src="./images/3.jpg" width=256>
+  <img src="./images/4.jpg" width=256>
+  <img src="./images/5.jpg" width=256>
+  <img src="./images/6.jpg" width=256>
+  <img src="./images/7.jpg" width=256>
+</p>
+
 ## License
 Project is under GNU General Public License v3.0. You can read more there: www.gnu.org
